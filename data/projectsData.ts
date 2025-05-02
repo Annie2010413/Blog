@@ -7,12 +7,13 @@ interface Project {
 
 const projectsData: Project[] = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    title: 'Experices',
+    description: `2022-2023                                              
+    Vice president and Activity Manager of ZhongShan English Debate Club
+    2025 
+    Drama director and Instructor of 2025 NTU Comsa Camp
+    2025<br>
+    Member of Public Relations Department of NTU IM night`,
   },
   {
     title: 'The Time Machine',
