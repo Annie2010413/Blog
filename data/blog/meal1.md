@@ -1,6 +1,6 @@
 ---
 title: '喫尤鐵板燒'
-date: '2025-05-05'
+date: '2025-05-02'
 tags: ['meals']
 draft: false
 summary: 公館平價鐵板燒 ⭐️美味度：7.5 ⭐️價格：9 ⭐️用餐環境：8

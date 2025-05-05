@@ -1,5 +1,5 @@
 ---
-title: '辛殿'
+title: '泰街頭'
 date: '2025-04-30'
 tags: ['meals']
 draft: false
@@ -20,7 +20,3 @@ type: Blog
 甜點的部分有千層蛋糕、奶酪、冰淇淋等。另外，他們的冰淇淋是會有人幫忙挖然後擺盤，每一種口味都很美味。
 
 總之是吃完會有幸福感的吃到飽火鍋，如果想要慶功或者是偶爾大吃一頓的話很推！
-
-![套餐](/static/images/meal2-2.png)
-
-![套餐](/static/images/meal2-1.png)
